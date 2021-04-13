@@ -4,6 +4,8 @@ Project 9 of Data Bootcamp.  Analysis climate data for a business venture.
 The goal of the analysis is to investigate the temperature trends for investors of a surf shop. The months of June and December are compared to determine if the surf and ice cream shop business is sustainable year-round.
 ## Results: 
 Summary statistics were generated for June and December using all dates included in the dataset. It is not limited by year. The summary statistics for the recorded temperature, measured in degrees Farenhight can be seen in June_temp_stats.png and Dec_temp_stats.png.
+
+
 ![June_temp_stats.png](https://github.com/RuthLD/surfs_up/blob/main/Resources/June_temp_stats.png)  ![Dec_temp_stats.png](https://github.com/RuthLD/surfs_up/blob/main/Resources/Dec_temp_stats.png)
 * The blue circle highlights the average temperature for the respective month.
   * June is four degrees warmer than December.
