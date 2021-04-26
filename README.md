@@ -13,7 +13,7 @@ Summary statistics were generated for June and December using all dates included
   * The lowest temperature in June is eight degrees warmer than the lowest temperature in December.
 * The yellow rectangle is the highest recorded temperature for the respective month.
   * The highest temperature in June is three degrees warmer than the highest temperature in December.
-  * 
+ 
 
 Additional queries were performed to gather the amount of precipitation for June and December.  The summary statistics for the amount of precipitation can be seen in June_prcp_stats.png and Dec_prcp_stats.png.
 
