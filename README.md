@@ -23,4 +23,6 @@ Additional queries were performed to gather the amount of precipitation for June
   * December had a higher maximum amount of precipitation than June.
 ## Summary: 
 The difference in the average temperature and the maximum recorded temperature for June and December are reasonably slight, so temperature fluctuations throughout the year should not negatively impact the business. The lowest recorded temperature difference may have a more considerable impact on the business during the winter months as there is a more significant fluctuation between the average and the lowest recorded temperature. 
+
+
 One of the principal investor’s significant concerns is the amount of potential precipitation effect on the business. At the same time, June has more counts of precipitation than December because zero precipitation is numerically recorded in the dataset. December does have a higher maximum amount of precipitation than June and a higher standard deviation indicating it is more likely for there to be precipitation during December than June. This supports the earlier assessment that business may be impacted in the winter months.
